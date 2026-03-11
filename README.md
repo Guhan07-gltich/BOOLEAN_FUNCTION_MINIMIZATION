@@ -41,9 +41,9 @@ Hardware – PCs, Cyclone II , USB flasher
 **RTL realization output**
 
    <img width="795" height="711" alt="Screenshot 2025-10-08 212432" src="https://github.com/user-attachments/assets/efd02719-0cb3-47e8-81e8-ff35f6b644fa" />
-   <img width="645" height="690" alt="Screenshot 2025-10-08 212140" src="https://github.com/user-attachments/assets/43d79f7b-42c2-4081-9db5-53e029518bb5" />
-   <img width="641" height="327" alt="Screenshot 2025-10-08 212154" src="https://github.com/user-attachments/assets/35b63f6b-923c-4849-b311-45cbf821ffdc" />
-   <img width="645" height="369" alt="Screenshot 2025-10-08 212203" src="https://github.com/user-attachments/assets/3fd9ad48-cf6a-493a-9659-9b6a34626688" />
+   <img width="930" height="375" alt="440262194-3ba84594-c272-4313-a88c-bb2d8fbb469b" src="https://github.com/user-attachments/assets/18107d49-c6bf-495a-8984-b18f51dddc93" />
+    <img width="927" height="386" alt="440262349-65aadc93-4d31-4f98-af4b-ace43e67d6c4" src="https://github.com/user-attachments/assets/f38d4369-55c9-4c76-b2fb-72b36432d4fa" />
+
 
 
 **Timing Diagram**
