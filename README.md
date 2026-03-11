@@ -16,9 +16,11 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
+**truth table:**
+![WhatsApp Image 2026-03-11 at 15 59 56](https://github.com/user-attachments/assets/507434d3-1035-4ae6-8043-5ba741b85ccf)
 
-**Logic Diagram**
+![WhatsApp Image 2026-03-11 at 16 00 08](https://github.com/user-attachments/assets/e4044f94-a19d-48d0-8b87-bb79269aab3f)
+
 
 **Procedure**
 
@@ -41,13 +43,14 @@ Hardware – PCs, Cyclone II , USB flasher
 **RTL realization output**
 
    <img width="795" height="711" alt="Screenshot 2025-10-08 212432" src="https://github.com/user-attachments/assets/efd02719-0cb3-47e8-81e8-ff35f6b644fa" />
-   <img width="930" height="375" alt="440262194-3ba84594-c272-4313-a88c-bb2d8fbb469b" src="https://github.com/user-attachments/assets/18107d49-c6bf-495a-8984-b18f51dddc93" />
-    <img width="927" height="386" alt="440262349-65aadc93-4d31-4f98-af4b-ace43e67d6c4" src="https://github.com/user-attachments/assets/f38d4369-55c9-4c76-b2fb-72b36432d4fa" />
+   
+
 
 
 
 **Timing Diagram**
-   <img width="1665" height="432" alt="Screenshot 2025-10-08 212234" src="https://github.com/user-attachments/assets/40fe8993-ea93-4fc8-9f3a-ef312a9bf148" />
+   <img width="1591" height="364" alt="image" src="https://github.com/user-attachments/assets/a38787d4-2075-45b7-b2c5-689f9746d849" />
+
 
 
 **Result:**
